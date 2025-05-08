@@ -248,7 +248,7 @@ input:checked ~ .bubble::after {
         width: 100%; /* Tombol mengisi lebar kontainer */
         margin-bottom: 0.5rem; /* Jarak antar tombol */
         font-size: 0.800rem; /* Menyesuaikan ukuran font pada tombol */
-        padding: 0.4rem 0.7rem; /* Mengurangi padding agar tombol lebih kecil */
+        padding: 0.5rem 0.6rem; /* Mengurangi padding agar tombol lebih kecil */
     }
 
     .todo-item .actions button:last-child {
