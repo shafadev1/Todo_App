@@ -247,12 +247,13 @@ input:checked ~ .bubble::after {
     .todo-item .actions button {
         width: 100%; /* Tombol mengisi lebar kontainer */
         margin-bottom: 0.5rem; /* Jarak antar tombol */
-        font-size: 0.875rem; /* Menyesuaikan ukuran font pada tombol */
-        padding: 0.5rem 1rem; /* Mengurangi padding agar tombol lebih kecil */
+        font-size: 0.700rem; /* Menyesuaikan ukuran font pada tombol */
+        padding: 0.2rem 0.5rem; /* Mengurangi padding agar tombol lebih kecil */
     }
 
     .todo-item .actions button:last-child {
         margin-bottom: 0; /* Menghapus margin di bawah tombol terakhir */
     }
+	
 }
 
